@@ -20,23 +20,36 @@ Olá pessoal, Sou a Garlli estudante da DIO! Inspirado na hype _"Natty or Not"_ 
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
 
-## 📒 Descrição
-Este projeto visa ensinar crianças sobre a importância do respeito aos adultos e a prática de bons costumes, como aguardar a vez de falar por exemplo.
-Utilizando atividades interativas e tecnologia de IA, as crianças aprenderão esses valores de maneira divertida e engajante.
+Projeto Aesthetic: “Harmonia Visual”
 
-## 🤖 Tecnologias Utilizadas
-- **Chatbots Educacionais**: Para simulações de conversas e prática de diálogo.
-- **Jogos Interativos**: Desenvolvidos com IA para reforçar o aprendizado de maneira lúdica.
-- **Plataformas de Aprendizado Adaptativo**: Que ajustam o conteúdo conforme o progresso da criança.
+📒 Descrição
+O projeto “Harmonia Visual” busca explorar a estética e a criatividade por meio da combinação de elementos visuais. Inspirado pela simplicidade e elegância, este projeto visa criar uma experiência visual agradável para o público.
 
-## 🧐 Processo de Criação
-O conteúdo foi criado com a colaboração de educadores e psicólogos infantis, garantindo que as atividades sejam adequadas para a faixa etária. A IA foi programada para reforçar mensagens positivas e encorajar a participação ativa das crianças.
+🤖 Tecnologias Utilizadas
+Neste projeto, utilizaremos as seguintes ferramentas:
 
-## 🚀 Resultados
-As crianças que participaram do projeto demonstraram uma melhora significativa no comportamento, mostrando mais respeito pelos adultos e paciência ao aguardar sua vez para falar.
+IA Generativa (GPT-4):
+A IA generativa será usada para gerar descrições poéticas e conceitos visuais.
+Ela nos ajudará a criar padrões, cores e formas que evocam harmonia.
+Ferramentas de Design Gráfico:
+Softwares de design gráfico, como Adobe Illustrator ou Figma, serão utilizados para criar composições visuais.
+Vamos explorar formas geométricas, tipografia e paletas de cores.
+🧐 Processo de Criação
+Inspiração:
+Pesquisaremos obras de artistas famosos e referências visuais que transmitam harmonia.
+Analisaremos elementos como proporções, equilíbrio e ritmo.
+Geração de Conceitos:
+A IA generativa nos ajudará a gerar conceitos iniciais.
+Criaremos palavras-chave e imagens mentais que representem a estética desejada.
+Composição Visual:
+Usando ferramentas de design gráfico, criaremos composições visuais.
+Experimentaremos diferentes layouts, alinhamentos e hierarquias.
+Iteração e Refinamento:
+Testaremos diferentes versões do projeto.
+Ajustaremos cores, formas e elementos até alcançarmos a harmonia desejada.
+🚀 Resultados
+O projeto “Harmonia Visual” resultará em uma série de imagens, ilustrações ou até mesmo animações que transmitam uma sensação de equilíbrio, serenidade e beleza. Essas criações poderão ser usadas em design de interfaces, arte digital ou até mesmo como inspiração para outros projetos.
 
-## 💭 Reflexão
-Criar um projeto 'natty' com IA foi um desafio estimulante. A chave foi equilibrar a tecnologia com a sensibilidade humana, garantindo que as lições de respeito e cortesia fossem transmitidas de forma calorosa e compreensiva.
-```
+💭 Reflexão (Opcional)
+Criar algo “natty” com IA é um desafio empolgante. A IA pode ampliar nossa criatividade e nos levar a explorar novas possibilidades estéticas. No entanto, é importante lembrar que a verdadeira harmonia vai além do visual; ela também envolve conexões emocionais e significados profundos. Como criadores, devemos buscar essa harmonia completa. 🌟
