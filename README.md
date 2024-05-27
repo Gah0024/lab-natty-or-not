@@ -20,7 +20,7 @@ Olá pessoal, Sou a Garlli estudante da DIO! Inspirado na hype _"Natty or Not"_ 
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Título do Projeto Crianças do futuro ;)
 
 ## 📒 Descrição
 Este projeto visa ensinar crianças sobre a importância do respeito aos adultos e a prática de bons costumes, como aguardar a vez de falar por exemplo.
